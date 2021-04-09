@@ -1,0 +1,1 @@
+This repository concentrate all exercises made during my training on couse 'Python programming, a concise introduction'.
